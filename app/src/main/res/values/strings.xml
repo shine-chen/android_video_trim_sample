@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">VideoEditTest</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_cut_video">CutVideoActivity</string>
+    <string name="title_activity_decode_edit_encode_test">DecodeEditEncodeTestActivity</string>
+</resources>
